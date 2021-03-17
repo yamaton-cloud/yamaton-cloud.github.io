@@ -1,0 +1,1 @@
+# yamaton-cloud.github.io
